@@ -1,4 +1,4 @@
-42935933508522
+50908670290522
 cftkb
 AVR_ICSP_3x2
 Double rangee de contacts 2 x 4 pins
@@ -140,9 +140,16 @@ cherry mx keyswitch MX1A 2.25u PCB
 2
 2
 cftkb
-SW_Cherry_MX1A_3.00u_PCB-NOSCREEN
-Cherry MX keyswitch, MX1A, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
-cherry mx keyswitch MX1A 1.00u PCB
+SW_Cherry_MX1A_3.00u_PCBNOSCREEN
+Cherry MX keyswitch, MX1A, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A 2.25u PCB
+0
+2
+2
+cftkb
+SW_Cherry_MX1A_ISOEnter_PCB_ReversedStabilizer
+Cherry MX keyswitch, MX1A, ISO Enter, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+cherry mx keyswitch MX1A ISO enter PCB
 0
 2
 2
@@ -175,7 +182,35 @@ credits
 0
 0
 cftkb
+credits2
+
+
+0
+0
+0
+cftkb
+credits2_mask
+
+
+0
+0
+0
+cftkb
+credits_mask
+
+
+0
+0
+0
+cftkb
 logo
+
+
+0
+0
+0
+cftkb
+logo_mask
 
 
 0
