@@ -1,4 +1,4 @@
-50908670290522
+50910200479522
 cftkb
 AVR_ICSP_3x2
 Double rangee de contacts 2 x 4 pins
@@ -182,20 +182,6 @@ credits
 0
 0
 cftkb
-credits2
-
-
-0
-0
-0
-cftkb
-credits2_mask
-
-
-0
-0
-0
-cftkb
 credits_mask
 
 
@@ -223,3 +209,17 @@ polyfuse_5.1mm
 0
 2
 2
+cftkb
+version
+
+
+0
+0
+0
+cftkb
+version_mask
+
+
+0
+0
+0
